@@ -81,6 +81,19 @@
 * 온라인 게임 개발 및 유지보수
   - 'Destiny' 유지 보수
 
+# Skill set
+* C/C++ -고급
+* Java - 고급
+* Python - 고급
+* JavaScript (Web/Node.js 등) - 중급
+* PHP - 중급
+* Assembly (x86/x64, ARM) - 중급
+* Cross Platform Programming - 중급 (SDL, wxWidgets 라이브러리 등 포함)
+* Linux 커맨드 및 개발환경 - 중급
+* Shell Scripting - 중급
+* Android -중급
+* Database(SQL/MongoDB 등) - 중급
+
 # 어학
 ## TOEIC
 * 2006.06.25: 735점
