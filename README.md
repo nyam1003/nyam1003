@@ -25,7 +25,7 @@
 * 2008.12.22: 신기술 리더상 (지능형 영상 솔루션 핵심기술 확보 및 기술역량 제고에 탁월한 성과를 발휘)
 * 2008.05.15: 성균관대학교 자랑스러운 컴교인 수상
 
-# 경력사항
+# 경력 사항
 ## 서울아이티고등학교
 * 2015.03.01 ~ 현재
 * 네트워크보안솔루션과 교사
@@ -45,7 +45,7 @@
   - Customized Android emulator
 * Android app custom 코드 injection 솔루션(In-App Agent) 개발 (2013.10 ~ 2014.01)
 * Commercial big data parsing server(WISHPOCKET) 개발 (2014.01 ~ 2014.06)
-* Android app 위변조 방지 솔루션(AppGuard) 개발 (2014.06 ~ 현재)
+* Android app 위변조 방지 솔루션(AppGuard) 개발 (2014.06 ~ 2015.02)
 
 ## (주)LG CNS
 * 2007.01.01 ~ 2012.03.08 (5년 2개월)
